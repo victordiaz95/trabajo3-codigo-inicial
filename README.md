@@ -1,4 +1,6 @@
-# Trabajo de Mantenibilidad
+# Assignment 3: Maintainability 
+
+Refactor the code to obtain a compliance level of 9 out of 10 according to the BetterCodeHub guidelines.
 
 See the file BetterCodeHub.md
 
